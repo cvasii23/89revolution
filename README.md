@@ -3,7 +3,7 @@
 
 After almost 30 years, the Romanian 1989 Trial has started. A 198 pages short version of the Indictment has been made publicly available in pdf format. I have performed some analytics on the document
 
-* __graph.ipynb__ is a  social graph approach. The nodes represent the people mentioned within the document, and the edge values are the number of co-occurences of each pair of characters (defendants, suspects, etc) in a paragraph.
+* __graph.ipynb__ is a  social network approach. The nodes represent the people mentioned within the document, and the edge values are the number of co-occurences of each pair of characters (defendants, suspects, etc) in a paragraph.
 
 The idea is that if characters A and B are mentioned together in a paragraph, it means they have done something together or, at least, there is a factual connection.
 

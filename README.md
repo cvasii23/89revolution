@@ -7,9 +7,9 @@ After more than 30 years, the Romanian 1989 Trial has started. A 198 pages short
 
 The idea is that if characters A and B are mentioned together in a paragraph, it means they have done something together or, at least, there is a factual connection.
 
-Visually, the graph looke like 
+Visually, the graph looks like 
 
-![](images\image.png)
+![](images/image.png)
 
 The more connected to others a character is, the closer to the center of the graph it is represented. To get a better view of the the importance of each character, the pagerank of the nodes is computed. The biggest ranks are:
 
@@ -24,4 +24,4 @@ As expected, The dedenfant Iliescu has the greatest rank, but I was surprised to
 
 From the community point of view, the graph separates in two communities, one with Ceausescu's regime characters like iulian Vlad, Tudor Postelnicu and the second with the ones taking the power after the 22nd of December.
 
-![]("images\communities.png")
+![](images/communities.png)

@@ -1,7 +1,7 @@
 (work in progress)
 # Analytics on the Indictment of the Romanian 1989 Revolution Trial
 
-After more than 30 years, the Romanian 1989 Trial has started. A 198 pages short version of the Indictment has been made publicly available in pdf format. I have performed some analytics on the document
+After almost 30 years, the Romanian 1989 Trial has started. A 198 pages short version of the Indictment has been made publicly available in pdf format. I have performed some analytics on the document
 
 * __graph.ipynb__ is a  social graph approach. The nodes represent the people mentioned within the document, and the edge values are the number of co-occurences of each pair of characters (defendants, suspects, etc) in a paragraph.
 
